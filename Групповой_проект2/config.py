@@ -1,5 +1,0 @@
-DATA_DESCRIPTION = ".\\test_data\\house_prices_data_description.txt"
-SAMPLE_SUBMISSION = ".\\test_data\\house_prices_sample_submission.csv"
-TEST_CSV = ".\\test_data\\house_prices_test.csv"
-TRAIN_SCV = ".\\test_data\\house_prices_train.csv"
-TARGET_PARAM = "SalePrice"
